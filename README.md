@@ -1,37 +1,36 @@
-<h1 align="center">👋 Hi, I am Gyanendra Rawat!</h1>
+<h1 align="center">👋 Hi, I'm Gyanendra Rawat!</h1>
 
 <p align="center">
-    <strong>Data Scientist at Jio Platforms Ltd.</strong><br>
-    Passionate about AI, ML, and building intelligent systems.
+    <strong>An AI/ML Developer at Anzen Technologies Pvt. Ltd. || Ex-Jio Data Scientist</strong>
 </p>
 
 <hr>
 
-<h2>🚀 About Me</h2>
-<ul>
-    <li>💡 Specializing in AI, ML, and data-driven applications.</li>
-    <li>🏗️ Currently working on <strong>LLMs, Gen AI, and system design for AI/ML</strong>.</li>
-    <li>📖 Always learning and exploring advancements in AI and deep learning.</li>
-    <li>🤝 Looking to collaborate on <strong>AI/ML projects, research, and open-source contributions</strong>.</li>
-</ul>
-
-<h2>📌 Connect With Me</h2>
-<ul>
-<!--     <li>🌐 Visit my <a href="https://pratik-kumar.netlify.app/">Portfolio</a> for more details.</li> -->
-<!--     <li>✍️ Read my articles on <a href="https://pr2tik1.medium.com/">Medium</a>.</li> -->
-    <li>📫 Reach me via <a href="https://www.linkedin.com/in/gyanendra-rawat-84477a191/">LinkedIn</a>.</li>
-</ul>
+<h2>🚀 Languages and Tools I Use</h2>
+<p align="center">
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
+    <a href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
+    <a href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+</p>
 
 <hr>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gyanendrarawat&show_icons=true&theme=dark" width="400">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=gyanendrarawat&theme=dark&hide_border=true" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=gyanendrarawat&show_icons=true&locale=en" alt="gyanendrarawat" width="400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanendrarawat&" alt="gyanendrarawat" width="400" />
 </p>
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendrarawat&layout=compact&theme=dark" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gyanendrarawat&show_icons=true&locale=en&layout=compact" alt="gyanendrarawat" width="400" />
 </p>
 
 <hr>
+
+<h2>⚡️ Where to Find Me</h2>
+<p align="center">
+    <a href="https://www.linkedin.com/in/gyanendra-rawat-84477a191"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" /></a>
+</p>
