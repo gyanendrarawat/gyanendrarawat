@@ -6,6 +6,13 @@
 
 <hr>
 
+<h2>💡 What I Do</h2>
+<p>
+    I specialize in AI/ML development, working on Large Language Models (LLMs), Generative AI, and system design for AI/ML applications. My focus includes building NLP models, optimizing ML pipelines, and working with vector databases like Milvus.
+</p>
+
+<hr>
+
 <h2>🚀 Languages and Tools</h2>
 <p align="center">
     <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
